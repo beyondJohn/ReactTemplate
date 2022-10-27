@@ -40,7 +40,7 @@ function Sign() {
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({ petitionEntry: myAddressObject })
         };
-        fetch('https://switchmagic.com:4567/api/support', requestOptions)
+        fetch('https://***********.com:4567/api/support', requestOptions)
             .then(response => { 
                 alert('THANK YOU FOR SUPPORTING VETERANS!!!')
                 handleOnClick()
