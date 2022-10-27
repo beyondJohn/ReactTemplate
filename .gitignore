@@ -11,6 +11,10 @@
 # production
 /build
 
+# zipcde worksheet file
+/public/zipcde.txt
+/src/zipcounty.json
+
 # misc
 .DS_Store
 .env.local
