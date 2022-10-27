@@ -12,7 +12,7 @@
 /build
 
 # zipcde worksheet file
-/public/zipcde.txt
+/public/zipcodes.txt
 /src/zipcounty.json
 
 # misc
